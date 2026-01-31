@@ -98,6 +98,9 @@ Capture your target model lineup (for example, Gemini 2.5 Pro/Flash, DeepSeek
 V3/R1, Perplexity, OpenRouter, GLM, and planned local models) and then confirm
 provider support and credentials in Gateway configuration before wiring the UI.
 Start in [Gateway configuration](/gateway/configuration).
+Model providers and credentials live in Gateway configuration; verify the
+providers you plan to use are supported in your deployment. Start in
+[Gateway configuration](/gateway/configuration).
 
 ### Productivity integrations
 
@@ -125,6 +128,13 @@ logic in the front end.
 - Camera capture: [Camera node](/nodes/camera)
 - Image understanding and attachments: [Images](/nodes/images)
 - Peekaboo UI automation: [Peekaboo](/platforms/mac/peekaboo)
+- Cron scheduling: [Cron jobs](/automation/cron-jobs)
+- Webhooks: [Webhooks](/automation/webhook)
+
+### Media and creative
+
+- Camera capture: [Camera node](/nodes/camera)
+- Image understanding and attachments: [Images](/nodes/images)
 
 ### Platform targets
 
